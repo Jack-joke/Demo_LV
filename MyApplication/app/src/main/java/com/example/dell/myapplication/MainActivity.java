@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void ToA(View view) {
+        Intent it = new Intent(MainActivity.this,TinhTongActivity.class);
+        startActivity(it);
     }
 
     public void ToB(View view) {
