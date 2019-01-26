@@ -12,11 +12,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="ToA"
-        android:text="Button A"/>
+        android:text="Tinh Tong"/>
     <Button
         android:id="@+id/btn_B"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="ToB"
-        android:text="Button B"/>
+        android:text="Tinh Hieu"/>
 </LinearLayout>
